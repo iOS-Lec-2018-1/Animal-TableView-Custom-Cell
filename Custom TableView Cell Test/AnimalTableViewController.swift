@@ -12,7 +12,7 @@ class AnimalTableViewController: UITableViewController {
     
     var animalNames = ["Cat", "Dog", "Monkey"]
     var animalImages = ["cat", "dog", "monkey"]
-    var country = ["KORAE", "JAPAN", "Africa"]
+    var country = ["KOREA", "JAPAN", "Africa"]
     var year = ["3 years", "2 years", "5 years"]
 
     override func viewDidLoad() {
